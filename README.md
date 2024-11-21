@@ -42,3 +42,8 @@ PicoSDK_64_11.0.2.405
 The visual studio .gitignore comes from github's template for this at:
 
 [https://github.com/github/gitignore/blob/main/VisualStudio.gitignore](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)
+
+## Example Output Captured
+
+![image](https://github.com/user-attachments/assets/b64217c7-5447-4a1f-b63e-bbbb4a1381cc)
+
